@@ -31,8 +31,7 @@ Professional Financial Manager with 20 years experience across commerce industri
 ### Projects
 
 <!-- BEGIN YOUTUBE-CARDS -->
-![](https://user-images.githubusercontent.com/115295850/195987902-b7a6e42a-40a9-4500-8529-9d97c8ba081e.mp4)
-<img src="https://user-images.githubusercontent.com/115295850/195987902-b7a6e42a-40a9-4500-8529-9d97c8ba081e.mp4" width="240" />
+[<img src="[https://user-images.githubusercontent.com/115295850/195987902-b7a6e42a-40a9-4500-8529-9d97c8ba081e.mp4](https://github.com/VeraK7/Power-BI-Project-Olympics-Analysis/issues/1#issue-1410161841)" width="240" height="180" border="10" />](https://user-images.githubusercontent.com/115295850/195987902-b7a6e42a-40a9-4500-8529-9d97c8ba081e.mp4)
 <!-- END YOUTUBE-CARDS -->
 
 ### Latest YouTube Videos
