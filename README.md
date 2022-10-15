@@ -28,6 +28,13 @@ Professional Financial Manager with 20 years experience across commerce industri
 
 #
 
+### Projects
+
+<!-- BEGIN YOUTUBE-CARDS -->
+![](https://user-images.githubusercontent.com/115295850/195987902-b7a6e42a-40a9-4500-8529-9d97c8ba081e.mp4)
+<img src="https://user-images.githubusercontent.com/115295850/195987902-b7a6e42a-40a9-4500-8529-9d97c8ba081e.mp4" width="240" />
+<!-- END YOUTUBE-CARDS -->
+
 ### Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
