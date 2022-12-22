@@ -10,9 +10,9 @@ Professional Financial Manager with 20 years experience across commerce industri
 
 <img align="left" alt="Java" width="240px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/115295850/209122132-79444f40-1646-4355-b3e7-f96f55dbe0cc.png"/>
 <img align="left" alt="Java" width="240px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/115295850/209122153-a057b925-f390-4036-98e1-b7a5d5f70373.png"/>
-<img align="left" alt="Java" width="340px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/115295850/209122116-f9bb5c88-1ab3-4ba0-bdad-22bb2c2f9e1c.jpg"/>
 <img align="left" alt="Java" width="240px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/115295850/209122163-44ebfd39-4bc3-406c-8d20-20903f86ddfe.png"/>
 <img align="left" alt="Java" width="240px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/115295850/209122222-10f75dcf-a660-4dce-90db-5c6a4fe6eb89.png"/>
+<img align="left" alt="Java" width="340px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/115295850/209122116-f9bb5c88-1ab3-4ba0-bdad-22bb2c2f9e1c.jpg"/>
 
 <br />
 <br />
@@ -50,7 +50,6 @@ Professional Financial Manager with 20 years experience across commerce industri
 <img align="left" alt="Oracle" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
 <img align="left" alt="GitHub" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Git" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<br />
 <br />
 <br />
 <br />
