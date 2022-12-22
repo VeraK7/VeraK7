@@ -29,6 +29,8 @@ Professional Financial Manager with 20 years experience across commerce industri
 <br />
 <br />
 <br />
+<br />
+<br />
 
 ---
 ### Languages and Tools
@@ -48,7 +50,6 @@ Professional Financial Manager with 20 years experience across commerce industri
 <img align="left" alt="Oracle" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
 <img align="left" alt="GitHub" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Git" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<br />
 <br />
 <br />
 <br />
