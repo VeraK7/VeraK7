@@ -53,18 +53,48 @@ Professional Financial Manager with 20 years experience across commerce industri
 <br />
 <br />
 <br />
+<br />
 
 ---
 ### Projects
 
 <!-- BEGIN YOUTUBE-CARDS -->
-![Power BI Olympic Analysis Gif](https://user-images.githubusercontent.com/115295850/196039686-2009695f-ec2b-4cdb-8f0c-7c715c36b07e.gif)
-![Portfolio Website Gif](https://user-images.githubusercontent.com/115295850/198849509-c8dc5f29-fbc4-4845-a6eb-a27d40ccd160.gif)
-![Travel Website Video Gif](https://user-images.githubusercontent.com/115295850/198849504-4c144c14-249f-43a7-ba9c-585a33113d9d.gif)
-![Wedding Reservation](https://user-images.githubusercontent.com/115295850/198849519-80a049c2-fed8-4ac3-aac2-a0349aa59670.gif)
-![Portfolio Gif](https://user-images.githubusercontent.com/115295850/196039789-52e7ec6e-b01b-467b-8d46-25b6a6d088f8.gif)
+<img align="left" alt="Power BI Olympic Analysis Gif" width="380px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/115295850/196039686-2009695f-ec2b-4cdb-8f0c-7c715c36b07e.gif"/>
+<img align="left" alt="Portfolio Website Gif" width="380px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/115295850/198849509-c8dc5f29-fbc4-4845-a6eb-a27d40ccd160.gif"/>
+<img align="left" alt="Travel Website Video Gif" width="380px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/115295850/198849504-4c144c14-249f-43a7-ba9c-585a33113d9d.gif"/>
+<img align="left" alt="Wedding Reservation" width="380px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/115295850/198849519-80a049c2-fed8-4ac3-aac2-a0349aa59670.gif"/>
+<img align="left" alt="Portfolio Gif" width="380px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/115295850/196039789-52e7ec6e-b01b-467b-8d46-25b6a6d088f8.gif"/>
+<br />
+<br />
+<br />
+<br />
 <!-- END YOUTUBE-CARDS -->
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
+#
 ### Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
