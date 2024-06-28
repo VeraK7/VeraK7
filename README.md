@@ -66,6 +66,11 @@ Professional Financial Manager with 20 years experience across commerce industri
 <img align="left" alt="Wedding Reservation" width="380px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/115295850/198849519-80a049c2-fed8-4ac3-aac2-a0349aa59670.gif"/>
 <img align="left" alt="Website Gif" width="380px" style="padding-right:10px;" src="https://github.com/VeraK7/websites/assets/115295850/bb3f630c-350c-4692-b883-917868ebfeee.gif"/>
 <img align="left" alt="Website Gif" width="380px" style="padding-right:10px;" src="https://github.com/VeraK7/websites/assets/115295850/6f286353-cb6b-4e99-93ae-572089e17daa.gif"/>
+<img align="left" alt="Website Gif" width="380px" style="padding-right:10px;" src="https://github.com/VeraK7/websites/assets/115295850/82beb295-8de1-487f-8e24-9340209da855.gif"/>
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
