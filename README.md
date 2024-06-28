@@ -134,5 +134,8 @@ Professional Financial Manager with 20 years experience across commerce industri
  <summary><h3> Vera's Coding Journey</h3></summary>
    Programming education began with my experience at Schlumberger as a front end GUI user of Netsuite being involved with back end account mapping due to erroneous design &amp; development at the time of customization by the development team.&nbsp;<br>Migration of Financial Database within ERP software (Quickbooks) from Desktop to Cloud.&nbsp;<br>Custom financial report writing to bridge the gap in the Cloud ERP software incompatibility.&nbsp;<br>Manual back-ups and restore.&nbsp;<br>Reporting Financial Results to Department of State using excel pivots &amp; formulae to extrapolate data.&nbsp;<br> All the troubleshooting over the years lead me to exploring a career in IT.
 
+<br>
+<br>
+<br>
 [website]: coming soon
 [youtube]: coming soon
