@@ -47,6 +47,7 @@ Professional Financial Manager with 20 years experience across commerce industri
 <img align="left" alt="Oracle" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
 <img align="left" alt="GitHub" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Git" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Git" width="60px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/drupal/drupal-original-wordmark.svg" />
 <br />
 <br />
 <br />
@@ -66,7 +67,6 @@ Professional Financial Manager with 20 years experience across commerce industri
 <img align="left" alt="Portfolio Gif" width="380px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/115295850/196039789-52e7ec6e-b01b-467b-8d46-25b6a6d088f8.gif"/>
 <img align="left" alt="Website Gif" width="380px" style="padding-right:10px;" src="https://github.com/VeraK7/websites/assets/115295850/bb3f630c-350c-4692-b883-917868ebfeee.gif"/>
 <img align="left" alt="Website Gif" width="380px" style="padding-right:10px;" src="https://github.com/VeraK7/websites/assets/115295850/6f286353-cb6b-4e99-93ae-572089e17daa.gif"/>
-<img align="left" alt="Website Gif" width="380px" style="padding-right:10px;" src=""/>
 <br />
 <br />
 <br />
