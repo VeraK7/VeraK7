@@ -66,7 +66,7 @@ Professional Financial Manager with 20 years experience across commerce industri
 <img align="left" alt="Portfolio Gif" width="380px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/115295850/196039789-52e7ec6e-b01b-467b-8d46-25b6a6d088f8.gif"/>
 <img align="left" alt="Website Gif" width="380px" style="padding-right:10px;" src="https://github.com/VeraK7/websites/assets/115295850/bb3f630c-350c-4692-b883-917868ebfeee.gif"/>
 <img align="left" alt="Website Gif" width="380px" style="padding-right:10px;" src="https://github.com/VeraK7/websites/assets/115295850/6f286353-cb6b-4e99-93ae-572089e17daa.gif"/>
-<img align="right" alt="Website Gif" width="380px" style="padding-right:10px;" src="https://github.com/VeraK7/websites/assets/115295850/7b6d1200-a2ec-4295-ad4b-b1cc6ce6d78b.mp4"/>
+<img align="right" alt="Website Gif" width="380px" style="padding-right:10px;" src="https://github.com/VeraK7/websites/assets/115295850/7b6d1200-a2ec-4295-ad4b-b1cc6ce6d78b.gif"/>
 <br />
 <br />
 <br />
