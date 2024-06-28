@@ -64,7 +64,6 @@ Professional Financial Manager with 20 years experience across commerce industri
 <img align="left" alt="Portfolio Website Gif" width="380px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/115295850/198849509-c8dc5f29-fbc4-4845-a6eb-a27d40ccd160.gif"/>
 <img align="left" alt="Travel Website Video Gif" width="380px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/115295850/198849504-4c144c14-249f-43a7-ba9c-585a33113d9d.gif"/>
 <img align="left" alt="Wedding Reservation" width="380px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/115295850/198849519-80a049c2-fed8-4ac3-aac2-a0349aa59670.gif"/>
-<img align="left" alt="Portfolio Gif" width="380px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/115295850/196039789-52e7ec6e-b01b-467b-8d46-25b6a6d088f8.gif"/>
 <img align="left" alt="Website Gif" width="380px" style="padding-right:10px;" src="https://github.com/VeraK7/websites/assets/115295850/bb3f630c-350c-4692-b883-917868ebfeee.gif"/>
 <img align="left" alt="Website Gif" width="380px" style="padding-right:10px;" src="https://github.com/VeraK7/websites/assets/115295850/6f286353-cb6b-4e99-93ae-572089e17daa.gif"/>
 <br />
